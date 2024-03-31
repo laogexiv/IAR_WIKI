@@ -51,3 +51,5 @@ description: 服务器已加载的附属列表
 23.InfiniteExtensionV2 无尽扩展V2
 
 <mark style="color:blue;">24.FinalTECH 乱序技艺</mark>
+
+25.计算器
